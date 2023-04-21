@@ -1,0 +1,15 @@
+.card__new-card {
+  margin-bottom: 1rem;
+}
+.card__new-card:hover {
+  transform: none;
+}
+.card__text--black {
+  color: black;
+}
+.card__icon-container--new-card {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5rem;
+  padding: 1rem;
+}
